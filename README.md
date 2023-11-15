@@ -9,4 +9,4 @@ This Python script tracks the price of a specific product on Amazon, notifying y
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/Amazon-Price-Tracker.git
+   git clone https://github.com/AbdelmalekIla/Amazon-Price-Tracker.git
